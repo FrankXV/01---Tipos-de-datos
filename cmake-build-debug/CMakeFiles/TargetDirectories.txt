@@ -1,0 +1,3 @@
+C:/Users/Fabricio.Cuadra/CLionProjects/01 - Tipos de datos/cmake-build-debug/CMakeFiles/Tipos_de_datos.dir
+C:/Users/Fabricio.Cuadra/CLionProjects/01 - Tipos de datos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fabricio.Cuadra/CLionProjects/01 - Tipos de datos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
